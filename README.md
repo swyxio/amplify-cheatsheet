@@ -1,8 +1,14 @@
 # amplify-cheatsheet
 amplify stuff i use all the time
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [AppsSync @auth directive](#appssync-auth-directive)
+  - [Public Read + Private Create, Update, Delete](#public-read--private-create-update-delete)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## AppsSync @auth directive
