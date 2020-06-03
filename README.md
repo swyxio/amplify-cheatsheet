@@ -6,7 +6,7 @@ amplify stuff i use all the time
 **Table of Contents**
 
 - [AppsSync @auth directive](#appssync-auth-directive)
-  - [Public Read + Private Create, Update, Delete](#public-read--private-create-update-delete)
+  - Hybrid Auth: [Public Read + Private Create, Update, Delete](#public-read--private-create-update-delete)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -70,3 +70,7 @@ API key configuration
 ? Enter a description for the API key: babys first api key
 ? After how many days from now the API key should expire (1-365): 7
 ```
+
+but then how to access it??? hmm.
+
+- https://www.youtube.com/watch?v=WM9WcEHxJmg
