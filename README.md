@@ -6,7 +6,7 @@ amplify stuff i use all the time
 **Table of Contents**
 
 - [AppsSync @auth directive](#appssync-auth-directive)
-  - Hybrid Auth: [Public Read + Private Create, Update, Delete](#public-read--private-create-update-delete)
+  - [Public Read + Private Create, Update, Delete](#public-read--private-create-update-delete)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
