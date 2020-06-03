@@ -1,6 +1,9 @@
 # amplify-cheatsheet
 amplify stuff i use all the time
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 
 ## AppsSync @auth directive
 
